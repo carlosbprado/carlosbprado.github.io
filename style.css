@@ -1,0 +1,77 @@
+img {
+    border-radius: 50%;
+    padding: 20px;
+    width: 200px;
+    align-items: middle;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    color: #8E4162;
+}
+
+body {
+    background-color: #818D92;
+    color: #080708;
+    background-image: url(images/stock-photo-abstract-modern-tech-programming-code.jpeg);
+}
+
+ul{
+    margin-bottom: 50px;
+}
+
+li {
+    font-size: 18px;
+}
+
+h1 {
+    margin: 10px 20px;
+    padding: 20px;
+    text-align: center;
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-left: 55px;
+}
+
+p {
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.cabecalho {
+    padding: 8px 25px;
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+    background-color: #8E4162;
+    font-family: fantasy;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+.sobre {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.habilidade{
+    display: inline-block;
+}
+.redes{
+    float: right;
+    margin-right: 55px;
+}
+nav{
+    background-image: url(images/stock-photo-abstract-modern-tech-programming-code.jpeg);
+}
+
+article{
+    margin: 20PX;
+    border: solid 1px black;
+    background-color: #818D92;
+    margin-bottom: 20px;
+}
